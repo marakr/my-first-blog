@@ -25,7 +25,7 @@ SECRET_KEY = 'iof(*!n^ku=)^742(n!)$)+=$(2g*ej(kxygd#zz(-jt5*%ef&'
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
 
-ALLOWED_HOSTS = []
+ALLOWED_HOSTS = ["marakr.pythonanywhere.com/"]
 
 
 # Application definition
